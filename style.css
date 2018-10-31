@@ -1,0 +1,135 @@
+body {
+  color: #515751;
+  background-color: #596869;
+  font-family: 'Crimson Text', serif;
+}
+
+#profile_pic  {
+  height: 203px;
+  width: 149px;
+  border-radius: 36px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: white;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn_green {
+  color: white;
+  background-color: #157145;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn_green:hover {
+  color: white;
+}
+
+#name {
+  margin:0 auto;
+}
+
+#current_job {
+  margin:0 auto;
+}
+
+#info {
+  margin:0 auto;
+  margin-bottom: 10px;
+}
+
+.social_media {
+  background-color: white;
+  width: 340px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  margin-right: 80px;
+  margin-left: 80px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.list_inline {
+  padding-left: 0;
+}
+.list_inline li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.index_box {
+  background-color: white;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.index_table {
+  background-color: white;
+  width: 340px;
+  text-align: center;
+  padding: 1px;
+  margin-right: 80px;
+  margin-left: 80px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.list_style_none {
+  list-style: none;
+}
+
+.footer {
+  text-align: center;
+  background-color: white;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+#burn {
+  font-size: 35px;
+  padding: 10px;
+}
+
+a {
+  color: #515751;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 120%;
+  color: #157145;
+
+}
+
+h1 {
+  color: #157145;
+}
+
+p {
+  padding: 10px;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+
+
+
+
+

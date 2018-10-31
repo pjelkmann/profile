@@ -1,0 +1,51 @@
+body {
+  color: #515751;
+  background-color: #596869;
+  font-family: 'Crimson Text', serif;
+}
+
+.sports_table {
+  background-color: white;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.sports_image {
+  padding: 5px;
+  height: 120px;
+  width: 170px;
+  border-radius: 10px;
+}
+
+a {
+  color: #515751;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 120%;
+  color: #157145;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  padding: 10px;
+}
+
+#burn {
+  text-align: center;
+  font-size: 35px;
+  padding: 5px;
+  width: 500
+}
+
+
+
+
+
