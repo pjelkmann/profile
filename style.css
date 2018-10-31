@@ -86,12 +86,15 @@ body {
 }
 
 .list_style_none {
+  list-style: none;
+}
+
+.table_element {
   color: white;
   background-color: #157145;
   font-weight: 500;
   padding: 10px;
   border-radius: 4px;
-  list-style: none;
 }
 
 .footer {
@@ -131,6 +134,7 @@ p {
 h2,h3 {
   text-align: center;
 }
+
 
 
 
