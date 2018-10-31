@@ -90,11 +90,13 @@ body {
 }
 
 .table_element {
-  color: white;
-  background-color: #157145;
-  font-weight: 500;
-  padding: 10px;
-  border-radius: 4px;
+    color: white;
+    background-color: #157145;
+    font-weight: 500;
+    padding: 4px;
+    border-radius: 4px;
+    width: 200px;
+    margin: 15 auto;
 }
 
 .footer {
