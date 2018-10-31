@@ -86,6 +86,11 @@ body {
 }
 
 .list_style_none {
+  color: white;
+  background-color: #157145;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
   list-style: none;
 }
 
@@ -123,7 +128,7 @@ p {
   padding: 10px;
 }
 
-h3 {
+h2,h3 {
   text-align: center;
 }
 
